@@ -1,0 +1,14 @@
+.infoListItem {
+    background: rgba(49, 4, 49, 0.979);
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+.infoLists {
+    background-color: white;
+    padding: 8px;
+    border-radius: 25px;
+}

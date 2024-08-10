@@ -1,0 +1,26 @@
+.Mainheader {
+margin-top: 1.4rem;
+}
+.Items {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.Item > a {
+text-decoration: none;
+color: purple;
+padding: 4px 8px;
+font-weight: bold;
+background-color: white;
+border: 0.5px solid purple;
+border-radius: 8px;
+}
+a.active {
+    border: none;
+    background-color: purple;
+    color: white;
+     }
